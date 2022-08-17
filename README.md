@@ -1,1 +1,1 @@
-# meditation
+# landing page for meditation
